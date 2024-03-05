@@ -1,0 +1,10 @@
+{
+	"BuildId": "25360045",
+	"Modules": 
+	{
+		"ChaosFlesh": "UnrealEditor-ChaosFlesh.dll",
+		"ChaosFleshEditor": "UnrealEditor-ChaosFleshEditor.dll",
+		"ChaosFleshEngine": "UnrealEditor-ChaosFleshEngine.dll",
+		"ChaosFleshNodes": "UnrealEditor-ChaosFleshNodes.dll"
+	}
+}
